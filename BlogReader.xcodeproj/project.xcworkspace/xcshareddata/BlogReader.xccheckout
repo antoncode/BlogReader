@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1631F493-CE26-47FB-BA7B-BF23DCED798D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BlogReader</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C6D3E038-CE11-4479-8821-72310741B356</key>
+		<string>ssh://github.com/guantonrivera/BlogReader.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BlogReader.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C6D3E038-CE11-4479-8821-72310741B356</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/guantonrivera/BlogReader.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C6D3E038-CE11-4479-8821-72310741B356</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C6D3E038-CE11-4479-8821-72310741B356</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BlogReaderRepo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
